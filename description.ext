@@ -1,0 +1,4 @@
+class cfgNetworkMessages
+{
+	#include "EXPClient\Addons\PlayerAnnounce\cfgNetworkMessages.hpp"
+};
